@@ -2,32 +2,214 @@
 <items version="2" >
 
     <item
-        jar="D:\2015\May\TapDots\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\classes.jar"
+        jar="D:\2015\May\FillDots\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
-        <dex dex="D:\2015\May\TapDots\app\build\intermediates\pre-dexed\debug\classes-e8b5afc8fd2e7af7d81bfee59ad7a520f7cf7abf.jar" />
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\classes-44020afa59890b5090750048e575165828b59e22.jar" />
     </item>
     <item
-        jar="D:\2015\May\TapDots\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\libs\internal_impl-22.1.1.jar"
+        jar="D:\2015\May\FillDots\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\classes-3e7aee1f6c99a160ece57fb0bba6a426e7c9e563.jar" />
+    </item>
+    <item
+        jar="D:\2015\May\FillDots\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\classes-b225a171c38699ed33edbb01db9abf354aa67927.jar" />
+    </item>
+    <item
+        jar="D:\2015\May\FillDots\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\classes-b5772d3758e62270afd10a09b8825e62ee21f820.jar" />
+    </item>
+    <item
+        jar="D:\2015\May\FillDots\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\classes-b322d6af80e18f473d68515fa23dda252af18bd4.jar" />
+    </item>
+    <item
+        jar="D:\2015\May\FillDots\app\build\intermediates\exploded-aar\com.github.johnkil.android-appmsg\appmsg\1.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="398ec51345409df9e36a1de1a81f2b3ad5234bfb">
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\classes-fd6ccb12d73bf8d60f6a8cdf63da235693739901.jar" />
+    </item>
+    <item
+        jar="D:\2015\May\FillDots\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\classes-6af31ba5069ae257c9c17075460ed197cdcb154d.jar" />
+    </item>
+    <item
+        jar="D:\2015\May\FillDots\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\classes-7de0dfab48b20779d09252286e84e809d49eb4e4.jar" />
+    </item>
+    <item
+        jar="D:\2015\May\FillDots\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\classes-5d5b96c54fecb3dd8e622060d8829b6f1e8338a0.jar" />
+    </item>
+    <item
+        jar="D:\2015\May\FillDots\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\classes-42feb53966c6e2456b39605543b550c980071d9e.jar" />
+    </item>
+    <item
+        jar="D:\2015\May\FillDots_no_ad\app\build\intermediates\exploded-aar\com.github.johnkil.android-appmsg\appmsg\1.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="398ec51345409df9e36a1de1a81f2b3ad5234bfb">
+        <dex dex="D:\2015\May\FillDots_no_ad\app\build\intermediates\pre-dexed\debug\classes-21d69d3591d05342bb0610af342afeab052513e4.jar" />
+    </item>
+    <item
+        jar="D:\2015\May\FillDots\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\classes-ff1f812b69ccdff89630d4249415df078d5c0f30.jar" />
+    </item>
+    <item
+        jar="D:\2015\May\FillDots\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\classes-7c30457b703512a605a71ff7f52dbc1d48867deb.jar" />
+    </item>
+    <item
+        jar="D:\2015\May\FillDots\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\libs\internal_impl-22.1.1.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
-        <dex dex="D:\2015\May\TapDots\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-1dd5e4f23376d1187480acec18b98eb58ac6d601.jar" />
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-ca22c0a040e2cd153ac5b2770149f8f2c7dd1796.jar" />
     </item>
     <item
-        jar="D:\2015\May\TapDots\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\classes.jar"
+        jar="D:\2015\May\FillDots\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\classes-96ce0eae4d13c6a6a1926ac075c6497a2fd3243c.jar" />
+    </item>
+    <item
+        jar="D:\2015\May\FillDots\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\classes-644e646277c7e5012f454c8b44362ab0005cc440.jar" />
+    </item>
+    <item
+        jar="C:\Users\SarathSarika\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.systembartint\systembartint\1.0.3\de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287\systembartint-1.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\systembartint-1.0.3-b6e3abc4e860bf7943cc9541a3e966e87facd8e1.jar" />
+    </item>
+    <item
+        jar="D:\2015\May\FillDots\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\classes-b255e5d53d95b2ae88dd6ee06f1725472087a6c1.jar" />
+    </item>
+    <item
+        jar="D:\2015\May\FillDots\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\classes-20f005affc922a7896a6d337d6cb8cf9b1b2ab5b.jar" />
+    </item>
+    <item
+        jar="D:\2015\May\FillDots_no_ad\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\2015\May\FillDots_no_ad\app\build\intermediates\pre-dexed\debug\classes-54a81d39a6030bfcd92d146506bd5d4f24ffd23d.jar" />
+    </item>
+    <item
+        jar="D:\2015\May\FillDots_no_ad\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
-        <dex dex="D:\2015\May\TapDots\app\build\intermediates\pre-dexed\debug\classes-ef6d7790fbbaf1dcb76ee570081bf4b4cc376ccc.jar" />
+        <dex dex="D:\2015\May\FillDots_no_ad\app\build\intermediates\pre-dexed\debug\classes-19e5f102dbce8920326fc6c917aef561c194be7c.jar" />
+    </item>
+    <item
+        jar="D:\2015\May\FillDots\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\classes-c75077d62fa12058c44d09b2173749e73398d8ed.jar" />
+    </item>
+    <item
+        jar="D:\2015\May\FillDots\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\classes-e611afea124bf70e9d2599159990e8266b9d6417.jar" />
+    </item>
+    <item
+        jar="D:\2015\May\FillDots\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\classes-27298e0f09a123b7fed2c056e434f6b829581999.jar" />
+    </item>
+    <item
+        jar="D:\2015\May\FillDots\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\classes-2bb4d5589265d608bafebfdb2eabb39225910214.jar" />
+    </item>
+    <item
+        jar="D:\2015\May\FillDots\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\classes-ffb90d942fd3afad0729ec66c64ee85cc9c17a83.jar" />
+    </item>
+    <item
+        jar="D:\2015\May\FillDots_no_ad\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="D:\2015\May\FillDots_no_ad\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-bf6ac4557c8ba2db7e57b00ec4b6422e1fc2d6b7.jar" />
+    </item>
+    <item
+        jar="D:\2015\May\FillDots\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\classes-e17a804a958032d9084309957ed6ff86b10ed1c0.jar" />
+    </item>
+    <item
+        jar="D:\2015\May\FillDots\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\classes-64abe26c875ff7f39a164a482bb2c792dce41447.jar" />
     </item>
     <item
         jar="C:\Program Files\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
-        <dex dex="D:\2015\May\TapDots\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-73915877a018e74bd2547dd9838cd67ae15fb58f.jar" />
+        <dex dex="D:\2015\May\FillDots\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-73915877a018e74bd2547dd9838cd67ae15fb58f.jar" />
     </item>
 
 </items>

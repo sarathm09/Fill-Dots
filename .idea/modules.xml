@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TapDots.iml" filepath="$PROJECT_DIR$/TapDots.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FillDots.iml" filepath="$PROJECT_DIR$/FillDots.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FillDots_no_ad.iml" filepath="$PROJECT_DIR$/FillDots_no_ad.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
